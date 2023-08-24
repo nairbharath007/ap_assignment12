@@ -1,0 +1,12 @@
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\bin\Debug\ReadFiles.exe.config
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\bin\Debug\ReadFiles.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\bin\Debug\ReadFiles.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\obj\Debug\ReadFiles.csproj.AssemblyReference.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\obj\Debug\ReadFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\obj\Debug\ReadFiles.csproj.CoreCompileInputs.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\obj\Debug\ReadFiles.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\obj\Debug\ReadFiles.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\ReadFiles\obj\Debug\ReadFiles.csproj.CopyComplete

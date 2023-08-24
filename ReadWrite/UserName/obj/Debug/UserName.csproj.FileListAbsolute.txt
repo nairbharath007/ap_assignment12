@@ -1,0 +1,8 @@
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\bin\Debug\UserName.exe.config
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\bin\Debug\UserName.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\bin\Debug\UserName.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\obj\Debug\UserName.csproj.AssemblyReference.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\obj\Debug\UserName.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\obj\Debug\UserName.csproj.CoreCompileInputs.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\obj\Debug\UserName.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\12\ReadWrite\UserName\obj\Debug\UserName.pdb
