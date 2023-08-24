@@ -1,0 +1,8 @@
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\bin\Debug\AppConfigUsingOOPS.exe.config
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\bin\Debug\AppConfigUsingOOPS.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\bin\Debug\AppConfigUsingOOPS.pdb
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\obj\Debug\AppConfigUsingOOPS.csproj.AssemblyReference.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\obj\Debug\AppConfigUsingOOPS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\obj\Debug\AppConfigUsingOOPS.csproj.CoreCompileInputs.cache
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\obj\Debug\AppConfigUsingOOPS.exe
+C:\Users\Brave\Desktop\Aurionpro_training\Assignments\11\AppConfigUsingOOPS\obj\Debug\AppConfigUsingOOPS.pdb
